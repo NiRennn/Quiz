@@ -1,0 +1,9 @@
+.timer {
+    margin-top: 20px;
+}
+
+.timer-display {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(206, 6, 206);
+}
